@@ -1,0 +1,21 @@
+# Node
+node_modules/
+.next/
+.out/
+.cache/
+.vercel/
+*.log
+
+# Environment
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Misc
+.DS_Store
+Thumbs.db
+coverage/
+*.tsbuildinfo
+next-env.d.ts
